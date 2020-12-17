@@ -28,5 +28,6 @@ def main():
 		print("chọn không hợp lệ mời bạn chọn lại")
 		main()
 
-main()
+if __name__ == '__main__':
+	main()
 
